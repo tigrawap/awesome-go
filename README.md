@@ -1175,6 +1175,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [robustly](https://github.com/VividCortex/robustly) - Runs functions resiliently, catching and restarting panics.
 * [scheduler](https://github.com/carlescere/scheduler) - Cronjobs scheduling made easy.
 * [sling](https://github.com/dghubble/sling) - Go HTTP requests builder for API clients.
+* [slit](https://github.com/tigrawap/slit) - PAGER, an alternative to less with multiple filters support and more unique features
 * [spinner](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options.
 * [sqlx](https://github.com/jmoiron/sqlx) - provides a set of extensions on top of the excellent built-in database/sql package.
 * [Storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB.
